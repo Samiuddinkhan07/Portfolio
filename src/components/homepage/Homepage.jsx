@@ -37,7 +37,7 @@ const homepage = () => {
               </div>
             </div>
             <div className="follow-icons">
-              <a href="">
+              <a href="www.linkedin.com/in/samiuddin-khan">
                 <img src={linkedInIcon} alt="" />
               </a>
               <a href="https://github.com/Samiuddinkhan07" target="_blank">
@@ -91,8 +91,8 @@ const homepage = () => {
                 <p>Make a Contact via Email or LinkedIn</p>
               </div>
               <div className="contact-icons">
-                <a href="mailto:samiuddinkhan2000@gmail.com"><img src={linkedInIcon} alt="" width="20px"/></a>
-                <a href=""><img src={gmailIcon} alt="" width="20px"/></a>
+                <a href="www.linkedin.com/in/samiuddin-khan"><img src={linkedInIcon} alt="" width="20px"/></a>
+                <a href="mailto:samiuddinkhan2000@gmail.com"><img src={gmailIcon} alt="" width="20px"/></a>
               </div>
             </div>
           </ContactMe>
