@@ -15,7 +15,9 @@ import {
   htmlIcon,
   cssIcon,
   javascriptIcon,
-  gmailIcon
+  gmailIcon,
+  mongoDbIcon,
+  nodeIcon
 } from "../../assets/imagesImport";
 import { ContactMe } from "../../styled/styles";
 import { css } from "styled-components";
@@ -83,6 +85,8 @@ const homepage = () => {
              <img src={javascriptIcon} alt="" width="30px"/>
              <img src={reactIcon} alt="" width="30px"/>
              <img src={reduxIcon} alt="" width="30px"/>
+             <img src={mongoDbIcon} alt="" width="30px"/>
+             <img src={nodeIcon} alt="" width="30px"/>
               </div>
             </div>
             <div className="right-info-contactMe">

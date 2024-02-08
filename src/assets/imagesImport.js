@@ -14,6 +14,8 @@ import htmlIcon from './html.svg';
 import cssIcon from './css.svg';
 import reduxIcon from './redux.svg';
 import gmailIcon from './gmail.png'
+import nodeIcon from './node-js.svg';
+import mongoDbIcon from './mongodb.svg'
 
 
 export {
@@ -22,5 +24,7 @@ export {
     htmlIcon,
     cssIcon,
     reduxIcon,
-    gmailIcon
+    gmailIcon,
+    nodeIcon,
+    mongoDbIcon,
 }
